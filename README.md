@@ -6,15 +6,15 @@ A simple flutter todo-list application, it works on IOS and Android.
 
 ### Method 1
 
-You have to install flutter CLI on this link : https://docs.flutter.dev/reference/flutter-cli < br/>
-Once installed, you just have to install an IOS or Android emulator or connect a mobile or tablet device. < br/>
-Then, just execute the following command at the root of the repository : < br/>
+You have to install flutter CLI on this link : https://docs.flutter.dev/reference/flutter-cli <br />
+Once installed, you just have to install an IOS or Android emulator or connect a mobile or tablet device. <br />
+Then, just execute the following command at the root of the repository : <br />
 
 > flutter run
 
 ### Method 2
 
-You have to install Android Studio and open the project, then, run on the device of your choice. < br/>
+You have to install Android Studio and open the project, then, run on the device of your choice.
 
 ## Routing
 
